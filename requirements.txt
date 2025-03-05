@@ -4,6 +4,7 @@ numpy==1.26.4
 pandas==2.2.3
 scipy==1.15.2
 streamlit==1.42.2
-tensorflow-cpu==2.15.0
+tensorflow==2.15.0
+tensorflow-probability==0.23.0
 
 
