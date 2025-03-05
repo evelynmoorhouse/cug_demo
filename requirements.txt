@@ -43,7 +43,6 @@ pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pydeck==0.9.1
 pytz==2025.1
-pywin32==307
 PyYAML==6.0.2
 referencing==0.36.2
 requests==2.32.3
